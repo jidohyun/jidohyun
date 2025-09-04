@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jidohyun)](https://velog.io/@do-hyun123/posts)
+[![wakatime](https://wakatime.com/badge/user/7e31389f-17b0-4fd1-8f7c-5aab611a13df.svg)](https://wakatime.com/@7e31389f-17b0-4fd1-8f7c-5aab611a13df)
